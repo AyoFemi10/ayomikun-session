@@ -1,0 +1,19 @@
+node_moudles
+dist
+.DS_Store
+server/public
+vite.config.ts.*
+*.tar.gz
+
+# Environment files
+.env
+.env.local
+.env.production
+
+#Build rules
+build/
+*.log
+
+# IDE foles
+.vscode/
+.idea/
